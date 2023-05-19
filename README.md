@@ -1,9 +1,13 @@
-# semiPJT
+# 카카오톡 선물하기 상품 추천 서비스
 </br>
-멀티캠퍼스 활동. 세미 프로젝트. </br>
-카카오톡 선물하기 상품을 추천하는 텔레그램 서비스를 제작하였다. </br>
-역할 : 팀장, 기획, 데이터 수집 </br>
-
+</br>
+카카오톡 선물하기 상품을 추천하는 텔레그램 서비스를 제작하였다.
+</br>
+</br>
+역할 : 팀장, 기획, 데이터 수집
+</br>
+</br>
+</br>
 ![슬라이드1](https://github.com/JJANGSY/semiPJT/assets/123911331/847a2c4d-beac-45a3-bfcb-ce4fadcfaaf1)
 ![슬라이드2](https://github.com/JJANGSY/semiPJT/assets/123911331/01952b9d-fbbf-4af4-83db-eccd889e8221)
 ![슬라이드3](https://github.com/JJANGSY/semiPJT/assets/123911331/c0ff9b3f-980f-4e02-9f9f-0f7d3120d8fd)
